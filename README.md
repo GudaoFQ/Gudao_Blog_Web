@@ -2,6 +2,13 @@
 
 > Vue+Element-UI搭建前端
 
+## 启动前需要添加
+
+```bash
+# 添加自己的网站logo
+将.ioc结尾的文件放到static，因为index.html的logo路径为/static/logo.ioc；若想修改，请更改index.html文件中的<link>标签
+```
+
 ## Build Setup
 
 ``` bash
